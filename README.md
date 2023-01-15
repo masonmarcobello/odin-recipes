@@ -5,4 +5,4 @@ By the time I complete it, I should have a better understanding of how to create
 
 __________
 
-As an update, after finishing this exercise, I've learned how to link video files, create footers, position elements and items with HTML and CSS, and make images as links. Admittedly I started using chat GPT for guidance to speed up the process, but I figured repetition is the father of learning. Eventually, these basic sites will come intuitively for me (along with understanding the rationale behind the logic and page layouts/structure. 
+As an update, after finishing this exercise, I've learned how to link video files, create footers, position elements and items with HTML and CSS, and make images as links. Admittedly I started using chat GPT for guidance to speed up the process, but I figured repetition is the father of learning. Eventually, these basic sites will come intuitively for me (along with understanding the logic and page layouts/structure). 
